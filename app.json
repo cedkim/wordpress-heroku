@@ -1,0 +1,7 @@
+{
+  "name": "WordPress for Heroku",
+  "description": "A quick way to deploy Wordpress to Heroku.",
+  "repository": "https://github.com/cedkim/wordpress-heroku",
+  "keywords": ["onlyoffice"],
+  "stack": "container"
+}
